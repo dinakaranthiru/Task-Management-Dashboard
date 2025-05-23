@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 export default function Navbar({ onLogout }) {
   return (
-    <nav className="bg-white shadow-sm border-b sticky top-0 z-50">
+    <nav className="bg-white shadow-sm  sticky top-0 z-50">
       <div className="max-w-7xl mx-auto px-6">
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
@@ -10,7 +10,7 @@ export default function Navbar({ onLogout }) {
             <div className="w-8 h-8 bg-indigo-600 rounded-lg flex items-center justify-center">
               <span className="text-white font-bold">T</span>
             </div>
-            <span className="font-bold text-xl text-gray-900">Task Dashboard</span>
+            <span className="font-bold text-xl text-gray-900">Task Management</span>
           </div>
 
           {/* Navigation Links */}
