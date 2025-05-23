@@ -1,11 +1,11 @@
 import { Navigate, Route, Routes } from "react-router-dom";
 import { useState, useEffect } from "react";
 
-import Dashboard from "../pages/Dashboard";
-import Tasks from "../pages/Tasks";
-import Settings from "../pages/Settings";
-import Login from "../pages/Login";
-import Navbar from "../components/Navbar";
+import Dashboard from "../pages/Dashboard.jsx";
+import Tasks from "../pages/Tasks.jsx";
+import Settings from "../pages/Settinngs.jsx";
+import Login from "../pages/Login.jsx";
+import Navbar from "../components/Navbar.jsx";
 
 export default function AppRoutes() {
   const [user, setUser] = useState(localStorage.getItem("user"));
