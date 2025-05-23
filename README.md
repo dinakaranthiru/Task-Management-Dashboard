@@ -142,7 +142,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Your Name**
 - GitHub: [@DINAKARAN T](https://github.com/dinakaranthiru)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/dinakaran-thiru-4243bb206/)
 - Email: dinakarant09@gmail.com
 
 ##  Acknowledgments
