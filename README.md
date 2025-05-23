@@ -28,7 +28,7 @@ A modern, responsive React-based single-page application for creating, managing,
 - [Author](#Author)
 - [Acknowledgments](#Acknowledgments)
 
-### 📸 Screenshots
+### Screenshots
 
 ## Dashboard Overview
 ![Dashboard Screenshot](https://github.com/dinakaranthiru/task-management-dashboard/blob/bd0ef9e0eff02170f59e4f32d38946f4f3fc53de/task-management)
@@ -37,7 +37,7 @@ A modern, responsive React-based single-page application for creating, managing,
 ![Task Management Screenshot](https://github.com/dinakaranthiru/task-management-dashboard/blob/ef337c171b25778abf0d39a755fb441560cc03c7/task.png)
 
 
-## 🛠️ Installation
+## Installation
 
 ### Prerequisites
 
@@ -92,7 +92,7 @@ pnpm start
 - Ensure responsive design
 - Test your changes
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 ### Core Technologies
 - **React 18.0+** - Frontend framework
@@ -116,14 +116,14 @@ pnpm start
 - **Responsive Design** - Mobile-first approach
 - **Mock Authentication** - Simulated login system
 
-## 🐛 Known Issues & Limitations
+## Known Issues & Limitations
 
 - Mock authentication (not suitable for production)
 - Data stored in localStorage (not persistent across devices)
 - Limited offline functionality
 - No real-time collaboration features
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - [ ] Real backend integration
 - [ ] User registration system
@@ -134,18 +134,18 @@ pnpm start
 - [ ] Email notifications
 - [ ] Export/import functionality
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
+##  Author
 
 **Your Name**
 - GitHub: [@DINAKARAN T](https://github.com/dinakaranthiru)
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/dinakaran-thiru-4243bb206/)
 - Email: dinakarant09@gmail.com
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - React team for the amazing framework
 - Tailwind CSS for the utility-first approach
