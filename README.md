@@ -1,7 +1,4 @@
-
-
-
-# Task Management Dashboard
+### Task Management Dashboard
 
 A modern, responsive React-based single-page application for creating, managing, and tracking tasks with an intuitive user interface.
 
@@ -24,26 +21,17 @@ A modern, responsive React-based single-page application for creating, managing,
 
 - [Screenshots](#screenshots)
 - [Installation](#installation)
-- [Project Structure](#project-structure)
-- [Usage](#usage)
 - [Features Overview](#features-overview)
-- [Components](#components)
-- [State Management](#state-management)
-- [Routing](#routing)
-- [Authentication](#authentication)
-- [Styling](#styling)
-- [Contributing](#contributing)
 - [Technologies Used](#technologies-used)
 - [License](#license)
 
-## 📸 Screenshots
-![image alt](https://github.com/dinakaranthiru/task-management-dashboard/blob/bd0ef9e0eff02170f59e4f32d38946f4f3fc53de/task-management)
+### 📸 Screenshots
 
-### Dashboard Overview
-![Dashboard Screenshot](https://via.placeholder.com/800x500?text=Dashboard+Overview)
+## Dashboard Overview
+![Dashboard Screenshot](https://github.com/dinakaranthiru/task-management-dashboard/blob/bd0ef9e0eff02170f59e4f32d38946f4f3fc53de/task-management)
 
-### Task Management
-![Task Management Screenshot](https://via.placeholder.com/800x500?text=Task+Management)
+## Task Management
+![Task Management Screenshot](https://github.com/dinakaranthiru/task-management-dashboard/blob/ef337c171b25778abf0d39a755fb441560cc03c7/task.png)
 
 
 ## 🛠️ Installation
@@ -88,7 +76,6 @@ pnpm start
 ### Code Standards
 
 - Use functional components with hooks
-- Follow ESLint configuration
 - Write meaningful commit messages
 - Add comments for complex logic
 - Ensure responsive design
@@ -108,7 +95,7 @@ pnpm start
 - **Custom Hooks** - Reusable logic
 
 ### Development Tools
-- **Create React App** - Project setup and build tools
+- **Create Vite@latest** - Project setup and build tools
 - **ESLint** - Code linting
 - **Prettier** - Code formatting
 
@@ -117,13 +104,6 @@ pnpm start
 - **Form Validation** - Input validation
 - **Responsive Design** - Mobile-first approach
 - **Mock Authentication** - Simulated login system
-
-## 📈 Performance Optimization
-
-- **Code Splitting** - Lazy loading of components
-- **Memoization** - React.memo for component optimization
-- **Efficient State Updates** - Optimized re-renders
-- **Image Optimization** - Compressed assets
 
 ## 🐛 Known Issues & Limitations
 
@@ -150,22 +130,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@DINAKARAN T](https://github.com/dinakaranthiru)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/dinakaran-thiru-4243bb206/)
+- Email: dinakarant09@gmail.com
 
 ## 🙏 Acknowledgments
 
 - React team for the amazing framework
 - Tailwind CSS for the utility-first approach
 - React Router team for seamless routing
-- Open source community for inspiration
-
-
-1. Check the [Issues](https://github.com/yourusername/task-management-dashboard/issues) page
-2. Create a new issue with detailed description
-3. Join our [Discord](https://discord.gg/yourserver) community
-4. Email support: support@yourdomain.com
 
 ---
 
