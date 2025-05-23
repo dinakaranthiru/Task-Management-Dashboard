@@ -19,12 +19,14 @@ A modern, responsive React-based single-page application for creating, managing,
 
 ## 📋 Table of Contents
 
-- [📸 Screenshots](#screenshots)
-- [Installation](#installation)
+- [Screenshots](#Screenshots)
+- [Installation](#Installation)
 - [Dependencies](#Dependencies)
-- [Features Overview](#features-overview)
-- [Technologies Used](#technologies-used)
-- [License](#license)
+- [Features Overview](#Features-Overview)
+- [Technologies Used](#Technologies-Used)
+- [License](#License)
+- [Author](#Author)
+- [Acknowledgments](#Acknowledgments)
 
 ### 📸 Screenshots
 
