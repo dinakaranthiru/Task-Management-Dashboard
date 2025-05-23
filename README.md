@@ -21,6 +21,7 @@ A modern, responsive React-based single-page application for creating, managing,
 
 - [📸 Screenshots](#screenshots)
 - [Installation](#installation)
+- [Dependencies](#Dependencies)
 - [Features Overview](#features-overview)
 - [Technologies Used](#technologies-used)
 - [License](#license)
@@ -42,6 +43,14 @@ Ensure you have the following installed:
 - **Node.js** (version 16.0 or higher)
 - **npm** or **yarn**
 - **Git**
+
+### Dependencies
+This project uses the following key libraries:
+
+react-router-dom - Client-side routing and navigation
+react-calendar - Interactive calendar component for date selection
+react-icons - Popular icon library with various icon sets
+dayjs - Lightweight date manipulation and formatting library
 
 ### Quick Start
 
