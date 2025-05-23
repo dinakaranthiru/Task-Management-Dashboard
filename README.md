@@ -47,7 +47,7 @@ Ensure you have the following installed:
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/task-management-dashboard.git
+git clone https://github.com/dinakaranthiru/task-management-dashboard.git
 
 # Navigate to project directory
 cd task-management-dashboard
