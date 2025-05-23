@@ -1,12 +1,84 @@
-# React + Vite
+### Task Management App
+A modern React-based task management application for organizing and tracking daily tasks with calendar integration.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Description
+This Task Management App is a comprehensive solution built with React and Vite that helps users efficiently organize, track, and manage their daily tasks. The application features an intuitive interface with calendar integration, progress tracking. Users can create, update, and delete tasks, view them in a calendar format, track deadlines with visual progress indicators. The app includes user authentication, a dashboard with analytics, and responsive design that works seamlessly across desktop, tablet, and mobile devices.
 
-Currently, two official plugins are available:
+## Getting Started
+### Dependencies
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Node.js (version 16.0 or higher)
+npm or yarn package manager
+Modern web browser (Chrome, Firefox, Safari, Edge)
+Operating System: Windows 10+, macOS 10.14+, or Linux
 
-## Expanding the ESLint configuration
+## Installing
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Clone the repository from GitHub
+
+ git clone https://github.com/yourusername/task-management-app.git
+
+## Navigate to the project directory
+
+  cd task-management-app
+
+## Install all dependencies
+
+ npm install
+
+## Executing program
+
+Start the development server
+
+ npm run dev
+
+Open your web browser and navigate to:
+
+http://localhost:5173
+
+For production build:
+
+npm run build
+npm run preview
+
+Help
+Common issues and solutions:
+
+Port already in use: Change the port in vite.config.js or kill the process using the port
+
+bashlsof -ti:5173 | xargs kill -9
+
+Dependencies not installing: Clear npm cache and reinstall
+
+bashnpm cache clean --force
+rm -rf node_modules package-lock.json
+npm install
+
+Build errors: Check Node.js version and update if necessary
+
+bashnode --version
+npm --version
+
+
+## Version History
+
+1.0
+
+Initial Release
+Basic task CRUD operations
+User authentication system
+Calendar integration
+
+
+
+## License
+This project is licensed under the MIT License - see the LICENSE.md file for details
+Acknowledgments
+Inspiration, code snippets, etc.
+
+###  Acknowledgments
+Tailwind CSS
+React Calendar Library
+Day.js Documentation
+React Router
+React Icons
