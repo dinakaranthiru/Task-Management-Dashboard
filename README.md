@@ -5,7 +5,6 @@ A modern, responsive React-based single-page application for creating, managing,
 ![React](https://img.shields.io/badge/React-18.0+-blue.svg)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.0+-green.svg)
 ![React Router](https://img.shields.io/badge/React%20Router-6.0+-red.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## 🚀 Features
 
@@ -134,9 +133,6 @@ pnpm start
 - [ ] Email notifications
 - [ ] Export/import functionality
 
-##  License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ##  Author
 
