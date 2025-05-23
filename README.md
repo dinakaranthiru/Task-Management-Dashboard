@@ -16,7 +16,7 @@ Operating System: Windows 10+, macOS 10.14+, or Linux
 
 ## Clone the repository from GitHub
 
- git clone https://github.com/yourusername/task-management-app.git
+ git clone (https://github.com/dinakaranthiru/task-management-dashboard.git)
 
 ## Navigate to the project directory
 
@@ -28,29 +28,27 @@ Operating System: Windows 10+, macOS 10.14+, or Linux
 
 ## Executing program
 
-Start the development server
+## Start the development server
 
  npm run dev
 
-Open your web browser and navigate to:
+## Open your web browser and navigate to:
 
 http://localhost:5173
 
-For production build:
+## For production build:
 
 npm run build
 npm run preview
 
-Help
-Common issues and solutions:
+## Help
+## Common issues and solutions:
 
 Port already in use: Change the port in vite.config.js or kill the process using the port
 
-bashlsof -ti:5173 | xargs kill -9
-
 Dependencies not installing: Clear npm cache and reinstall
 
-bashnpm cache clean --force
+ npm cache clean --force
 rm -rf node_modules package-lock.json
 npm install
 
@@ -78,7 +76,11 @@ Inspiration, code snippets, etc.
 
 ###  Acknowledgments
 Tailwind CSS
+
 React Calendar Library
+
 Day.js Documentation
+
 React Router
+
 React Icons
