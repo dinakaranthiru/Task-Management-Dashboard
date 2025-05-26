@@ -49,8 +49,11 @@ Ensure you have the following installed:
 This project uses the following key libraries:
 
 react-router-dom - Client-side routing and navigation
+
 react-calendar - Interactive calendar component for date selection
+
 react-icons - Popular icon library with various icon sets
+
 dayjs - Lightweight date manipulation and formatting library
 
 ### Quick Start
